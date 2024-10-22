@@ -150,7 +150,7 @@ pwa:
 
 paginate: 20
 
-
+future: true
 # The base URL of your site
 baseurl: ""
 
