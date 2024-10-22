@@ -15,6 +15,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 published: true
+future: true
 title: vcx # the main title
 
 tagline: 공부한거 정리하자 # it will display as the subtitle
@@ -150,7 +151,7 @@ pwa:
 
 paginate: 20
 
-future: true
+
 # The base URL of your site
 baseurl: ""
 
