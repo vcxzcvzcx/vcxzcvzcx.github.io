@@ -10,12 +10,10 @@
 
   /* Common color */
   // --text-color: rgb(175, 176, 177);
-  --text-color: rgb(243, 243, 243);
-  --text-muted-color: #fff;
-  --text-muted-highlight-color: #aeaeae;
-  // --heading-color: #cccccc;
-  --heading-color: #fff;
-  // --label-color: #a7a7a7;
+  --text-color: rgb(215, 215, 215); // 본문 칼라
+  --text-muted-color: #b9b9b9; // 카드 부제목들
+  --text-muted-highlight-color: #aeaeae; // 게시 업데이트 By
+  --heading-color: #fff; // 카드 제목
   --label-color: #a7a7a7;
   --blockquote-border-color: rgb(66, 66, 66);
   --blockquote-text-color: #868686;
@@ -43,10 +41,12 @@
   --sidebar-border-color: #292929;
   --sidebar-muted-color: #868686;
   --sidebar-active-color: rgb(255, 255, 255, 0.95);
-  --sidebar-hover-bg: #262626;
+  //--sidebar-hover-bg: #262626;
+  --sidebar-hover-bg: #942f2f; 
   --sidebar-btn-bg: #232328;
   --sidebar-btn-color: #787878;
   --avatar-border-color: rgb(206, 206, 206, 0.9);
+  // --avatar-border-color: rgba(183, 168, 168, 0);
 
   /* Topbar */
   --topbar-bg: rgb(27, 27, 30, 0.64);
